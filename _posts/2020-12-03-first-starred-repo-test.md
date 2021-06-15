@@ -16,7 +16,7 @@ excerpt: "My first repo intended to be used by others is appreciated... and it f
 
 I was talking with a colleague about how I used cookiecutter to create a project template and showed him the [repo](https://github.com/Wahe3bru/DataScienceTeamProjectTemplate) in action.
 
-I remember us having a chat during my interview and me explaining it to him.
+I remember us having a chat during my interview and me explaining it to him. I have a suspicion that that was what got me the job ;)
 
 One of the biggest problems in the team was the rapid development of the datalake and the constant changes to the development and production environment. Now that the prod environment is maturing and is stable, the development packs are being fined tuned and the problem arises when developers clone previous similar projects and modify it.
 

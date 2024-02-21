@@ -11,7 +11,7 @@ tags:
 classes: wide
 header:
   overlay_image: https://source.unsplash.com/collection/8375052/1024x720
-excerpt: "My first repo intended to be used by others is appreciated... and it feels good :)"
+excerpt: 
 ---
 
 I was talking with a colleague about how I used cookiecutter to create a project template and showed him the [repo](https://github.com/Wahe3bru/DataScienceTeamProjectTemplate) in action.
